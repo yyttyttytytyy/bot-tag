@@ -80,7 +80,7 @@ def main():
                     Wsp Broksie. This is a private backend!
                 </h1>
                 <p style="font-size: 18px;">Bot Tag Backend Server Running Smoothly!</p>
-                <img src="https://aicdn.picsart.com/275c6ae1-73a4-4cee-b3f5-45ccfa4499ae.png" alt="if u see this text it dont work" style="max-width: 500px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; margin: 30px auto;">
+                <img src="https://i.pinimg.com/736x/2d/d9/4e/2dd94ea4c7d142d63ca93a7501a5c873.jpg" alt="if u see this text it dont work" style="max-width: 500px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; margin: 30px auto;">
                 <p style="font-size: 14px; opacity: 0.8;">Image loads when the server works!</p>
             </body>
         </html>
